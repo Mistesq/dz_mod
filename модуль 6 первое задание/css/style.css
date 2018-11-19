@@ -1,0 +1,20 @@
+.timer{
+  margin: 30px auto 0;
+  width: 500px;
+}
+
+p{
+  text-align: center;
+  font-size: 50px;
+}
+
+.but{
+  width: 48%;
+  margin-left: 1%;
+}
+
+.msec{
+  float: right;
+  font-size: 30px;
+  margin-top: 60px;
+}

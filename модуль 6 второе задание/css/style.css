@@ -1,0 +1,25 @@
+.timer{
+  margin: 30px auto 0;
+  width: 500px;
+}
+
+.timerPanel{
+  text-align: center;
+  font-size: 50px;
+}
+
+.listT{
+  margin-left: 40px;
+  font-size: 20px;
+}
+
+.but{
+  width: 30%;
+  margin-left: 2%;
+}
+
+.msec{
+  float: right;
+  font-size: 30px;
+  margin-top: 60px;
+}
